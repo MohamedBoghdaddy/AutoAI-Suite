@@ -1,6 +1,6 @@
 # AutoAI Suite 🚀🤖
 
-![AutoAI Suite Banner](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
+![AutoAI Suite Banner](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/gif)
 
 ## Overview 🌟
 AutoAI Suite is an intelligent task automation tool that leverages the power of **artificial intelligence** 🧠, **machine learning** 📊, and an easy-to-use **graphical user interface (GUI)** 🖥️ to simplify repetitive tasks. Whether you need to organize thousands of files, scrape data from the web, or automate data entry, AutoAI Suite provides a comprehensive solution.
